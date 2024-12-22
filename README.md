@@ -7,4 +7,4 @@ Results for LSTM-based network:
 
 Results for Transformer:
 
-![image](https://github.com/user-attachments/assets/9ada9e32-a7af-4085-b2a3-deea4fcadef0)
+![image](https://github.com/user-attachments/assets/1f20c715-dd93-4ab0-a3af-cde7013205e3)
