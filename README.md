@@ -1,7 +1,5 @@
 # Inflight Object Trajectory Prediction
 
-# **Inflight Object Trajectory Prediction**
-
 ## **Overview**
 Inflight Object Trajectory Prediction is a deep learning-based framework that predicts the trajectory of objects in motion. The model utilizes **vision-based** and **motion capture-based** data to improve accuracy.  
 
