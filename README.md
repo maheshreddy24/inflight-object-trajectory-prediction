@@ -72,7 +72,7 @@ Pretrained models are available in the `experiments/` directory. To use them for
 - Extending support for **more diverse objects and complex motion types**.
 
 ---
-
+Note: This is done as a part of internship at RRC, IIITH
 ## **License**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
